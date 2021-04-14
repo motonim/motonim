@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 My Github Stats:
 <p align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=motonim&show_icons=true&theme=tokyonight" height="100">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motonim&theme=tokyonight" height="100">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=motonim&show_icons=true&theme=tokyonight" height="250" style-"margin-right:15px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motonim&theme=tokyonight" height="250">
 
 </p>
