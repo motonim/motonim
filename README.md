@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Jaeri Park! 
+# 👋 Hi, I’m Jaeri Park! 
 
 - 😄 I’m a real foodie. (Loves Korean barbeque!)
 - 🌱 I’m currently learning React and node.js.
