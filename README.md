@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=motonim&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motonim&theme=tokyonight)
+</p>
