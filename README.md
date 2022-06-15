@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
-  
-  
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
 </p>
 
 <br>
