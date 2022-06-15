@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="mongodb" height="40" style="vertical-align:top; margin:6px">
+  
 </p>
 
 <br>
