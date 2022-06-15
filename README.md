@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and node.js.
 - 💬 Constant learning is my strength.
 - 👄 I speak Korean, English and French.
-- ⚡ Fun fact: I love to play Starcraft in my free time!!
+- ⚡ I love to play Starcraft in my free time!!
 
 
 <!---
